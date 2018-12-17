@@ -35,6 +35,6 @@
  </data>
  <data>
   <variable>DisplayName</variable>
-  <value type="QString">Arad</value>
+  <value type="QString">MCodeStyle</value>
  </data>
 </qtcreator>
